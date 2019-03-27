@@ -80,7 +80,7 @@
 /*------Services---*/
 #services {
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url(l.jpg);
+    url(../images/bg.jpg);
   background-size: cover;
   background-position: center;
   color: #efefef;
@@ -199,7 +199,7 @@ h1::after {
 /*-----poromo----*/
 #promo {
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url(l.jpg);
+    url(../images/bg.jpg);
   background-size: cover;
   background-position: center;
   color: #fff;
